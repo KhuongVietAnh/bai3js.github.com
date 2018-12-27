@@ -16,4 +16,6 @@ body{
     margin: 0 auto;
 }
 #myCanvas{
+    width: 950px;
+    height: 700px;
 }
