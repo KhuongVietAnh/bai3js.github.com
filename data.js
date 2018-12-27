@@ -3,7 +3,7 @@ var data = {
     B: 0.1,
     C: 3,
     D: 4,
-    E: 30
+    E: 4
 };
 var level = 4;
 var title = "BIỂU ĐỒ LỊCH SỬ LEVEL OF POSITION";
